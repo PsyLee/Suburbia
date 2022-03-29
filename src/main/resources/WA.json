@@ -1,0 +1,4304 @@
+[
+  {
+    "postcode":"6000",
+    "name":[
+      "City Delivery Centre",
+      "Perth",
+      "Perth Gpo"
+    ]
+  },
+  {
+    "postcode":"6001",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6003",
+    "name":[
+      "Highgate",
+      "Northbridge"
+    ]
+  },
+  {
+    "postcode":"6004",
+    "name":[
+      "East Perth"
+    ]
+  },
+  {
+    "postcode":"6005",
+    "name":[
+      "Kings Park",
+      "West Perth"
+    ]
+  },
+  {
+    "postcode":"6006",
+    "name":[
+      "North Perth"
+    ]
+  },
+  {
+    "postcode":"6007",
+    "name":[
+      "Leederville",
+      "West Leederville"
+    ]
+  },
+  {
+    "postcode":"6008",
+    "name":[
+      "Daglish",
+      "Shenton Park",
+      "Subiaco",
+      "Subiaco East"
+    ]
+  },
+  {
+    "postcode":"6009",
+    "name":[
+      "Crawley",
+      "Dalkeith",
+      "Nedlands",
+      "Nedlands Dc"
+    ]
+  },
+  {
+    "postcode":"6010",
+    "name":[
+      "Claremont",
+      "Karrakatta",
+      "Mount Claremont",
+      "Swanbourne"
+    ]
+  },
+  {
+    "postcode":"6011",
+    "name":[
+      "Cottesloe",
+      "Peppermint Grove"
+    ]
+  },
+  {
+    "postcode":"6012",
+    "name":[
+      "Mosman Park"
+    ]
+  },
+  {
+    "postcode":"6014",
+    "name":[
+      "Floreat",
+      "Floreat Forum",
+      "Jolimont",
+      "Wembley"
+    ]
+  },
+  {
+    "postcode":"6015",
+    "name":[
+      "City Beach"
+    ]
+  },
+  {
+    "postcode":"6016",
+    "name":[
+      "Glendalough",
+      "Mount Hawthorn"
+    ]
+  },
+  {
+    "postcode":"6017",
+    "name":[
+      "Herdsman",
+      "Osborne Park",
+      "Osborne Park Dc"
+    ]
+  },
+  {
+    "postcode":"6018",
+    "name":[
+      "Churchlands",
+      "Doubleview",
+      "Gwelup",
+      "Gwelup Dc",
+      "Innaloo",
+      "Karrinyup",
+      "Woodlands"
+    ]
+  },
+  {
+    "postcode":"6019",
+    "name":[
+      "Scarborough",
+      "Wembley Downs"
+    ]
+  },
+  {
+    "postcode":"6020",
+    "name":[
+      "Carine",
+      "Marmion",
+      "North Beach",
+      "Sorrento",
+      "Watermans Bay"
+    ]
+  },
+  {
+    "postcode":"6021",
+    "name":[
+      "Balcatta",
+      "Stirling"
+    ]
+  },
+  {
+    "postcode":"6022",
+    "name":[
+      "Hamersley"
+    ]
+  },
+  {
+    "postcode":"6023",
+    "name":[
+      "Duncraig"
+    ]
+  },
+  {
+    "postcode":"6024",
+    "name":[
+      "Greenwood",
+      "Warwick"
+    ]
+  },
+  {
+    "postcode":"6025",
+    "name":[
+      "Craigie",
+      "Hillarys",
+      "Kallaroo",
+      "Padbury"
+    ]
+  },
+  {
+    "postcode":"6026",
+    "name":[
+      "Kingsley",
+      "Woodvale"
+    ]
+  },
+  {
+    "postcode":"6027",
+    "name":[
+      "Beldon",
+      "Connolly",
+      "Edgewater",
+      "Heathridge",
+      "Joondalup",
+      "Joondalup Dc",
+      "Mullaloo",
+      "Ocean Reef"
+    ]
+  },
+  {
+    "postcode":"6028",
+    "name":[
+      "Burns Beach",
+      "Currambine",
+      "Iluka",
+      "Kinross"
+    ]
+  },
+  {
+    "postcode":"6029",
+    "name":[
+      "Trigg"
+    ]
+  },
+  {
+    "postcode":"6030",
+    "name":[
+      "Clarkson",
+      "Merriwa",
+      "Mindarie",
+      "Quinns Rocks",
+      "Ridgewood",
+      "Tamala Park"
+    ]
+  },
+  {
+    "postcode":"6031",
+    "name":[
+      "Banksia Grove",
+      "Carramar",
+      "Neerabup"
+    ]
+  },
+  {
+    "postcode":"6032",
+    "name":[
+      "Nowergup"
+    ]
+  },
+  {
+    "postcode":"6033",
+    "name":[
+      "Carabooda"
+    ]
+  },
+  {
+    "postcode":"6034",
+    "name":[
+      "Eglinton"
+    ]
+  },
+  {
+    "postcode":"6035",
+    "name":[
+      "Yanchep"
+    ]
+  },
+  {
+    "postcode":"6036",
+    "name":[
+      "Butler",
+      "Jindalee"
+    ]
+  },
+  {
+    "postcode":"6037",
+    "name":[
+      "Two Rocks"
+    ]
+  },
+  {
+    "postcode":"6038",
+    "name":[
+      "Alkimos"
+    ]
+  },
+  {
+    "postcode":"6041",
+    "name":[
+      "Caraban",
+      "Gabbadah",
+      "Guilderton",
+      "Wilbinga",
+      "Woodridge"
+    ]
+  },
+  {
+    "postcode":"6042",
+    "name":[
+      "Seabird"
+    ]
+  },
+  {
+    "postcode":"6043",
+    "name":[
+      "Breton Bay",
+      "Ledge Point"
+    ]
+  },
+  {
+    "postcode":"6044",
+    "name":[
+      "Karakin",
+      "Lancelin",
+      "Nilgen",
+      "Wedge Island"
+    ]
+  },
+  {
+    "postcode":"6050",
+    "name":[
+      "Coolbinia",
+      "Menora",
+      "Mount Lawley"
+    ]
+  },
+  {
+    "postcode":"6051",
+    "name":[
+      "Maylands"
+    ]
+  },
+  {
+    "postcode":"6052",
+    "name":[
+      "Bedford",
+      "Inglewood"
+    ]
+  },
+  {
+    "postcode":"6053",
+    "name":[
+      "Bayswater"
+    ]
+  },
+  {
+    "postcode":"6054",
+    "name":[
+      "Ashfield",
+      "Bassendean",
+      "Bassendean Dc",
+      "Eden Hill",
+      "Kiara",
+      "Lockridge"
+    ]
+  },
+  {
+    "postcode":"6055",
+    "name":[
+      "Caversham",
+      "Guildford",
+      "Hazelmere",
+      "Henley Brook",
+      "South Guildford",
+      "West Swan"
+    ]
+  },
+  {
+    "postcode":"6056",
+    "name":[
+      "Baskerville",
+      "Bellevue",
+      "Boya",
+      "Greenmount",
+      "Helena Valley",
+      "Herne Hill",
+      "Jane Brook",
+      "Koongamia",
+      "Middle Swan",
+      "Midland",
+      "Midvale",
+      "Millendon",
+      "Red Hill",
+      "Stratton",
+      "Swan View",
+      "Viveash",
+      "Woodbridge"
+    ]
+  },
+  {
+    "postcode":"6057",
+    "name":[
+      "High Wycombe",
+      "Maida Vale"
+    ]
+  },
+  {
+    "postcode":"6058",
+    "name":[
+      "Forrestfield"
+    ]
+  },
+  {
+    "postcode":"6059",
+    "name":[
+      "Dianella"
+    ]
+  },
+  {
+    "postcode":"6060",
+    "name":[
+      "Joondanna",
+      "Tuart Hill",
+      "Yokine"
+    ]
+  },
+  {
+    "postcode":"6061",
+    "name":[
+      "Balga",
+      "Mirrabooka",
+      "Nollamara",
+      "Westminster"
+    ]
+  },
+  {
+    "postcode":"6062",
+    "name":[
+      "Embleton",
+      "Morley",
+      "Noranda"
+    ]
+  },
+  {
+    "postcode":"6063",
+    "name":[
+      "Beechboro"
+    ]
+  },
+  {
+    "postcode":"6064",
+    "name":[
+      "Alexander Heights",
+      "Girrawheen",
+      "Koondoola",
+      "Marangaroo"
+    ]
+  },
+  {
+    "postcode":"6065",
+    "name":[
+      "Ashby",
+      "Darch",
+      "Gnangara",
+      "Hocking",
+      "Jandabup",
+      "Landsdale",
+      "Lexia",
+      "Madeley",
+      "Mariginiup",
+      "Melaleuca",
+      "Pearsall",
+      "Pinjar",
+      "Sinagra",
+      "Tapping",
+      "Wangara",
+      "Wangara Dc",
+      "Wanneroo"
+    ]
+  },
+  {
+    "postcode":"6066",
+    "name":[
+      "Ballajura"
+    ]
+  },
+  {
+    "postcode":"6067",
+    "name":[
+      "Cullacabardee"
+    ]
+  },
+  {
+    "postcode":"6068",
+    "name":[
+      "Whiteman"
+    ]
+  },
+  {
+    "postcode":"6069",
+    "name":[
+      "Belhus",
+      "Brigadoon",
+      "Ellenbrook",
+      "The Vines",
+      "Upper Swan"
+    ]
+  },
+  {
+    "postcode":"6070",
+    "name":[
+      "Darlington"
+    ]
+  },
+  {
+    "postcode":"6071",
+    "name":[
+      "Glen Forrest",
+      "Hovea"
+    ]
+  },
+  {
+    "postcode":"6072",
+    "name":[
+      "Mahogany Creek"
+    ]
+  },
+  {
+    "postcode":"6073",
+    "name":[
+      "Mundaring",
+      "Mundaring Dc",
+      "Mundaring Weir"
+    ]
+  },
+  {
+    "postcode":"6074",
+    "name":[
+      "Sawyers Valley"
+    ]
+  },
+  {
+    "postcode":"6076",
+    "name":[
+      "Bickley",
+      "Carmel",
+      "Gooseberry Hill",
+      "Hacketts Gully",
+      "Kalamunda",
+      "Lesmurdie",
+      "Paulls Valley",
+      "Pickering Brook",
+      "Piesse Brook",
+      "Reservoir",
+      "Walliston",
+      "Walliston Dc"
+    ]
+  },
+  {
+    "postcode":"6081",
+    "name":[
+      "Parkerville",
+      "Stoneville"
+    ]
+  },
+  {
+    "postcode":"6082",
+    "name":[
+      "Bailup",
+      "Mount Helena"
+    ]
+  },
+  {
+    "postcode":"6083",
+    "name":[
+      "Gidgegannup",
+      "Morangup"
+    ]
+  },
+  {
+    "postcode":"6084",
+    "name":[
+      "Avon Valley National Park",
+      "Bullsbrook",
+      "Chittering",
+      "Lower Chittering",
+      "Walyunga National Park"
+    ]
+  },
+  {
+    "postcode":"6090",
+    "name":[
+      "Malaga"
+    ]
+  },
+  {
+    "postcode":"6100",
+    "name":[
+      "Burswood",
+      "Lathlain",
+      "Victoria Park"
+    ]
+  },
+  {
+    "postcode":"6101",
+    "name":[
+      "Carlisle",
+      "Carlisle North",
+      "Carlisle South",
+      "East Victoria Park"
+    ]
+  },
+  {
+    "postcode":"6102",
+    "name":[
+      "Bentley",
+      "Bentley Dc",
+      "St James"
+    ]
+  },
+  {
+    "postcode":"6103",
+    "name":[
+      "Rivervale"
+    ]
+  },
+  {
+    "postcode":"6104",
+    "name":[
+      "Ascot",
+      "Belmont",
+      "Redcliffe"
+    ]
+  },
+  {
+    "postcode":"6105",
+    "name":[
+      "Cloverdale",
+      "Kewdale",
+      "Perth Airport"
+    ]
+  },
+  {
+    "postcode":"6106",
+    "name":[
+      "Welshpool",
+      "Welshpool Dc"
+    ]
+  },
+  {
+    "postcode":"6107",
+    "name":[
+      "Beckenham",
+      "Cannington",
+      "East Cannington",
+      "Kenwick",
+      "Queens Park",
+      "Wattle Grove",
+      "Wilson"
+    ]
+  },
+  {
+    "postcode":"6108",
+    "name":[
+      "Thornlie"
+    ]
+  },
+  {
+    "postcode":"6109",
+    "name":[
+      "Maddington",
+      "Orange Grove"
+    ]
+  },
+  {
+    "postcode":"6110",
+    "name":[
+      "Gosnells",
+      "Huntingdale",
+      "Martin",
+      "Southern River"
+    ]
+  },
+  {
+    "postcode":"6111",
+    "name":[
+      "Canning Mills",
+      "Champion Lakes",
+      "Illawarra",
+      "Karragullen",
+      "Kelmscott",
+      "Kelmscott Dc",
+      "Roleystone",
+      "Westfield"
+    ]
+  },
+  {
+    "postcode":"6112",
+    "name":[
+      "Armadale",
+      "Bedfordale",
+      "Brookdale",
+      "Forrestdale",
+      "Mount Nasura",
+      "Mount Richon",
+      "Seville Grove",
+      "Wungong"
+    ]
+  },
+  {
+    "postcode":"6121",
+    "name":[
+      "Oakford",
+      "Oldbury"
+    ]
+  },
+  {
+    "postcode":"6122",
+    "name":[
+      "Byford",
+      "Cardup",
+      "Darling Downs",
+      "Karrakup"
+    ]
+  },
+  {
+    "postcode":"6123",
+    "name":[
+      "Mundijong",
+      "Whitby"
+    ]
+  },
+  {
+    "postcode":"6124",
+    "name":[
+      "Jarrahdale"
+    ]
+  },
+  {
+    "postcode":"6125",
+    "name":[
+      "Hopeland",
+      "Mardella",
+      "Serpentine"
+    ]
+  },
+  {
+    "postcode":"6126",
+    "name":[
+      "Keysbrook"
+    ]
+  },
+  {
+    "postcode":"6147",
+    "name":[
+      "Langford",
+      "Lynwood",
+      "Parkwood"
+    ]
+  },
+  {
+    "postcode":"6148",
+    "name":[
+      "Ferndale",
+      "Riverton",
+      "Rossmoyne",
+      "Shelley"
+    ]
+  },
+  {
+    "postcode":"6149",
+    "name":[
+      "Bull Creek",
+      "Leeming"
+    ]
+  },
+  {
+    "postcode":"6150",
+    "name":[
+      "Bateman",
+      "Murdoch",
+      "Winthrop"
+    ]
+  },
+  {
+    "postcode":"6151",
+    "name":[
+      "Kensington",
+      "South Perth"
+    ]
+  },
+  {
+    "postcode":"6152",
+    "name":[
+      "Como",
+      "Karawara",
+      "Manning",
+      "Salter Point",
+      "Waterford"
+    ]
+  },
+  {
+    "postcode":"6153",
+    "name":[
+      "Applecross",
+      "Ardross",
+      "Brentwood",
+      "Mount Pleasant"
+    ]
+  },
+  {
+    "postcode":"6154",
+    "name":[
+      "Alfred Cove",
+      "Booragoon",
+      "Myaree"
+    ]
+  },
+  {
+    "postcode":"6155",
+    "name":[
+      "Canning Vale",
+      "Canning Vale Dc",
+      "Willetton"
+    ]
+  },
+  {
+    "postcode":"6156",
+    "name":[
+      "Attadale",
+      "Melville",
+      "Willagee"
+    ]
+  },
+  {
+    "postcode":"6157",
+    "name":[
+      "Bicton",
+      "Palmyra",
+      "Palmyra Dc"
+    ]
+  },
+  {
+    "postcode":"6158",
+    "name":[
+      "East Fremantle"
+    ]
+  },
+  {
+    "postcode":"6159",
+    "name":[
+      "North Fremantle"
+    ]
+  },
+  {
+    "postcode":"6160",
+    "name":[
+      "Fremantle"
+    ]
+  },
+  {
+    "postcode":"6161",
+    "name":[
+      "Rottnest Island"
+    ]
+  },
+  {
+    "postcode":"6162",
+    "name":[
+      "Beaconsfield",
+      "South Fremantle",
+      "White Gum Valley"
+    ]
+  },
+  {
+    "postcode":"6163",
+    "name":[
+      "Bibra Lake",
+      "Bibra Lake Dc",
+      "Coolbellup",
+      "Hamilton Hill",
+      "Hilton",
+      "Kardinya",
+      "North Lake",
+      "O'connor",
+      "Samson",
+      "Spearwood"
+    ]
+  },
+  {
+    "postcode":"6164",
+    "name":[
+      "Atwell",
+      "Aubin Grove",
+      "Banjup",
+      "Beeliar",
+      "Hammond Park",
+      "Jandakot",
+      "South Lake",
+      "Success",
+      "Yangebup"
+    ]
+  },
+  {
+    "postcode":"6165",
+    "name":[
+      "Hope Valley",
+      "Naval Base"
+    ]
+  },
+  {
+    "postcode":"6166",
+    "name":[
+      "Coogee",
+      "Henderson",
+      "Munster",
+      "Wattleup"
+    ]
+  },
+  {
+    "postcode":"6167",
+    "name":[
+      "Anketell",
+      "Bertram",
+      "Calista",
+      "Casuarina",
+      "Kwinana Beach",
+      "Kwinana Town Centre",
+      "Mandogalup",
+      "Medina",
+      "Orelia",
+      "Parmelia",
+      "Postans",
+      "The Spectacles",
+      "Wandi"
+    ]
+  },
+  {
+    "postcode":"6168",
+    "name":[
+      "Cooloongup",
+      "East Rockingham",
+      "Garden Island",
+      "Hillman",
+      "Peron",
+      "Rockingham",
+      "Rockingham Dc"
+    ]
+  },
+  {
+    "postcode":"6169",
+    "name":[
+      "Safety Bay",
+      "Shoalwater",
+      "Waikiki",
+      "Warnbro"
+    ]
+  },
+  {
+    "postcode":"6170",
+    "name":[
+      "Leda",
+      "Wellard"
+    ]
+  },
+  {
+    "postcode":"6171",
+    "name":[
+      "Baldivis"
+    ]
+  },
+  {
+    "postcode":"6172",
+    "name":[
+      "Port Kennedy"
+    ]
+  },
+  {
+    "postcode":"6173",
+    "name":[
+      "Secret Harbour"
+    ]
+  },
+  {
+    "postcode":"6174",
+    "name":[
+      "Golden Bay"
+    ]
+  },
+  {
+    "postcode":"6175",
+    "name":[
+      "Singleton"
+    ]
+  },
+  {
+    "postcode":"6176",
+    "name":[
+      "Karnup"
+    ]
+  },
+  {
+    "postcode":"6207",
+    "name":[
+      "Myara",
+      "Nambeelup",
+      "North Dandalup",
+      "Solus",
+      "Whittaker"
+    ]
+  },
+  {
+    "postcode":"6208",
+    "name":[
+      "Blythewood",
+      "Fairbridge",
+      "Meelon",
+      "Nirimba",
+      "North Yunderup",
+      "Oakley",
+      "Pinjarra",
+      "Point Grey",
+      "Ravenswood",
+      "South Yunderup",
+      "West Pinjarra"
+    ]
+  },
+  {
+    "postcode":"6210",
+    "name":[
+      "Barragup",
+      "Bouvard",
+      "Clifton",
+      "Coodanup",
+      "Dawesville",
+      "Dudley Park",
+      "Erskine",
+      "Falcon",
+      "Furnissdale",
+      "Greenfields",
+      "Halls Head",
+      "Herron",
+      "Lakelands",
+      "Madora Bay",
+      "Mandurah",
+      "Mandurah Dc",
+      "Meadow Springs",
+      "Parklands",
+      "San Remo",
+      "Silver Sands",
+      "Stake Hill",
+      "Wannanup"
+    ]
+  },
+  {
+    "postcode":"6213",
+    "name":[
+      "Banksiadale",
+      "Dwellingup",
+      "Etmilyn",
+      "Holyoake",
+      "Inglehope",
+      "Marrinup",
+      "Teesdale"
+    ]
+  },
+  {
+    "postcode":"6214",
+    "name":[
+      "Birchmont",
+      "Coolup",
+      "West Coolup"
+    ]
+  },
+  {
+    "postcode":"6215",
+    "name":[
+      "Hamel",
+      "Lake Clifton",
+      "Nanga Brook",
+      "Preston Beach",
+      "Wagerup",
+      "Waroona"
+    ]
+  },
+  {
+    "postcode":"6218",
+    "name":[
+      "Yarloop"
+    ]
+  },
+  {
+    "postcode":"6220",
+    "name":[
+      "Cookernup",
+      "Harvey",
+      "Hoffman",
+      "Myalup",
+      "Uduc",
+      "Warawarrup"
+    ]
+  },
+  {
+    "postcode":"6221",
+    "name":[
+      "Mornington",
+      "Wokalup"
+    ]
+  },
+  {
+    "postcode":"6223",
+    "name":[
+      "Benger"
+    ]
+  },
+  {
+    "postcode":"6224",
+    "name":[
+      "Beela",
+      "Brunswick"
+    ]
+  },
+  {
+    "postcode":"6225",
+    "name":[
+      "Allanson",
+      "Bowelling",
+      "Buckingham",
+      "Cardiff",
+      "Collie",
+      "Collie Burn",
+      "Harris River",
+      "Lyalls Mill",
+      "Mcalinden",
+      "Muja",
+      "Mumballup",
+      "Mungalup",
+      "Noggerup",
+      "Palmer",
+      "Preston Settlement",
+      "Shotts",
+      "Worsley",
+      "Yourdamung Lake"
+    ]
+  },
+  {
+    "postcode":"6226",
+    "name":[
+      "Roelands"
+    ]
+  },
+  {
+    "postcode":"6227",
+    "name":[
+      "Burekup"
+    ]
+  },
+  {
+    "postcode":"6228",
+    "name":[
+      "Waterloo"
+    ]
+  },
+  {
+    "postcode":"6229",
+    "name":[
+      "Picton",
+      "Picton East"
+    ]
+  },
+  {
+    "postcode":"6230",
+    "name":[
+      "Bunbury",
+      "Carey Park",
+      "College Grove",
+      "Dalyellup",
+      "Davenport",
+      "East Bunbury",
+      "Gelorup",
+      "Glen Iris",
+      "Pelican Point",
+      "South Bunbury",
+      "Usher",
+      "Vittoria",
+      "Withers"
+    ]
+  },
+  {
+    "postcode":"6231",
+    "name":[
+      "Bunbury"
+    ]
+  },
+  {
+    "postcode":"6232",
+    "name":[
+      "Eaton",
+      "Millbridge"
+    ]
+  },
+  {
+    "postcode":"6233",
+    "name":[
+      "Australind",
+      "Binningup",
+      "Leschenault",
+      "Parkfield",
+      "Wellesley"
+    ]
+  },
+  {
+    "postcode":"6236",
+    "name":[
+      "Crooked Brook",
+      "Dardanup",
+      "Dardanup West",
+      "Ferguson",
+      "Henty",
+      "Paradise",
+      "Wellington Forest",
+      "Wellington Mill"
+    ]
+  },
+  {
+    "postcode":"6237",
+    "name":[
+      "Boyanup",
+      "Elgin",
+      "Gwindinup",
+      "North Boyanup",
+      "Stratham",
+      "The Plains"
+    ]
+  },
+  {
+    "postcode":"6239",
+    "name":[
+      "Argyle",
+      "Beelerup",
+      "Brookhampton",
+      "Charley Creek",
+      "Donnybrook",
+      "Glen Mervyn",
+      "Paynedale",
+      "Queenwood",
+      "Thomson Brook",
+      "Upper Capel",
+      "Yabberup"
+    ]
+  },
+  {
+    "postcode":"6240",
+    "name":[
+      "Lowden"
+    ]
+  },
+  {
+    "postcode":"6243",
+    "name":[
+      "Wilga",
+      "Wilga West"
+    ]
+  },
+  {
+    "postcode":"6244",
+    "name":[
+      "Boyup Brook",
+      "Chowerup",
+      "Dinninup",
+      "Kulikup",
+      "Mayanup",
+      "Scotts Brook",
+      "Tonebridge"
+    ]
+  },
+  {
+    "postcode":"6251",
+    "name":[
+      "Brazier",
+      "Kirup",
+      "Newlands"
+    ]
+  },
+  {
+    "postcode":"6252",
+    "name":[
+      "Mullalyup"
+    ]
+  },
+  {
+    "postcode":"6253",
+    "name":[
+      "Balingup",
+      "Grimwade",
+      "Southampton"
+    ]
+  },
+  {
+    "postcode":"6254",
+    "name":[
+      "Greenbushes",
+      "North Greenbushes"
+    ]
+  },
+  {
+    "postcode":"6255",
+    "name":[
+      "Benjinup",
+      "Bridgetown",
+      "Catterick",
+      "Hester",
+      "Hester Brook",
+      "Kangaroo Gully",
+      "Winnejup"
+    ]
+  },
+  {
+    "postcode":"6256",
+    "name":[
+      "Glenlynn",
+      "Kingston",
+      "Maranup",
+      "Sunnyside",
+      "Wandillup",
+      "Yornup"
+    ]
+  },
+  {
+    "postcode":"6258",
+    "name":[
+      "Balbarrup",
+      "Crowea",
+      "Deanmill",
+      "Diamond Tree",
+      "Dingup",
+      "Dixvale",
+      "Donnelly River",
+      "Glenoran",
+      "Jardee",
+      "Lake Muir",
+      "Linfarne",
+      "Manjimup",
+      "Middlesex",
+      "Mordalup",
+      "Nyamup",
+      "Palgarup",
+      "Perup",
+      "Quinninup",
+      "Ringbark",
+      "Shannon River Mill",
+      "Smith Brook",
+      "Upper Warren",
+      "Wilgarrup",
+      "Yanmah"
+    ]
+  },
+  {
+    "postcode":"6260",
+    "name":[
+      "Beedelup",
+      "Biddelia",
+      "Callcup",
+      "Channybearup",
+      "Collins",
+      "Collins Siding",
+      "Eastbrook",
+      "Lake Jasper",
+      "Peerabeelup",
+      "Pemberton",
+      "Yeagarup"
+    ]
+  },
+  {
+    "postcode":"6262",
+    "name":[
+      "Boorara Brook",
+      "Meerup",
+      "Northcliffe",
+      "Shannon",
+      "Windy Harbour"
+    ]
+  },
+  {
+    "postcode":"6271",
+    "name":[
+      "Capel",
+      "Capel River",
+      "Forrest Beach",
+      "Peppermint Grove Beach",
+      "Stirling Estate"
+    ]
+  },
+  {
+    "postcode":"6275",
+    "name":[
+      "Barrabup",
+      "Carlotta",
+      "Cundinup",
+      "Darradup",
+      "East Nannup",
+      "Jalbarragup",
+      "Jarrahwood",
+      "Nannup",
+      "Scott River East",
+      "Yoganup"
+    ]
+  },
+  {
+    "postcode":"6280",
+    "name":[
+      "Abba River",
+      "Abbey",
+      "Acton Park",
+      "Ambergate",
+      "Anniebrook",
+      "Boallia",
+      "Bovell",
+      "Broadwater",
+      "Busselton",
+      "Carbunup River",
+      "Chapman Hill",
+      "Geographe",
+      "Hithergreen",
+      "Jindong",
+      "Kalgup",
+      "Kaloorup",
+      "Kealy",
+      "Ludlow",
+      "Marybrook",
+      "Metricup",
+      "North Jindong",
+      "Reinscourt",
+      "Ruabon",
+      "Sabina River",
+      "Siesta Park",
+      "Tutunup",
+      "Vasse",
+      "Walsall",
+      "West Busselton",
+      "Wilyabrup",
+      "Wonnerup",
+      "Yalyalup",
+      "Yelverton",
+      "Yoongarillup"
+    ]
+  },
+  {
+    "postcode":"6281",
+    "name":[
+      "Dunsborough",
+      "Eagle Bay",
+      "Naturaliste",
+      "Quedjinup",
+      "Quindalup"
+    ]
+  },
+  {
+    "postcode":"6282",
+    "name":[
+      "Yallingup",
+      "Yallingup Siding"
+    ]
+  },
+  {
+    "postcode":"6284",
+    "name":[
+      "Baudin",
+      "Cowaramup",
+      "Gracetown",
+      "Treeton"
+    ]
+  },
+  {
+    "postcode":"6285",
+    "name":[
+      "Bramley",
+      "Burnside",
+      "Gnarabup",
+      "Margaret River",
+      "Osmington",
+      "Prevelly",
+      "Rosa Brook",
+      "Rosa Glen",
+      "Schroeder"
+    ]
+  },
+  {
+    "postcode":"6286",
+    "name":[
+      "Boranup",
+      "Forest Grove",
+      "Redgate",
+      "Witchcliffe"
+    ]
+  },
+  {
+    "postcode":"6288",
+    "name":[
+      "Alexandra Bridge",
+      "Courtenay",
+      "Hamelin Bay",
+      "Karridale",
+      "Nillup",
+      "Scott River",
+      "Warner Glen"
+    ]
+  },
+  {
+    "postcode":"6290",
+    "name":[
+      "Augusta",
+      "Deepdene",
+      "East Augusta",
+      "Kudardup",
+      "Leeuwin",
+      "Molloy Island"
+    ]
+  },
+  {
+    "postcode":"6302",
+    "name":[
+      "Badgin",
+      "Balladong",
+      "Burges",
+      "Caljie",
+      "Cold Harbour",
+      "Daliak",
+      "Flint",
+      "Flynn",
+      "Gilgering",
+      "Greenhills",
+      "Gwambygine",
+      "Inkpen",
+      "Kauring",
+      "Malebelling",
+      "Mount Hardey",
+      "Mount Observation",
+      "Narraloggan",
+      "Quellington",
+      "St Ronans",
+      "Talbot",
+      "Talbot West",
+      "Wilberforce",
+      "York"
+    ]
+  },
+  {
+    "postcode":"6304",
+    "name":[
+      "Bally Bally",
+      "Beverley",
+      "Dale",
+      "East Beverley",
+      "Kokeby",
+      "Morbinning",
+      "Westdale"
+    ]
+  },
+  {
+    "postcode":"6306",
+    "name":[
+      "Aldersyde",
+      "Brookton",
+      "Bulyee",
+      "Jelcobine",
+      "Kweda"
+    ]
+  },
+  {
+    "postcode":"6308",
+    "name":[
+      "Codjatotine",
+      "Dwarda",
+      "East Pingelly",
+      "Gillimanning",
+      "Hastings",
+      "Pingelly",
+      "Pumphreys Bridge",
+      "Springs",
+      "Wandering",
+      "West Pingelly"
+    ]
+  },
+  {
+    "postcode":"6309",
+    "name":[
+      "East Popanyinning",
+      "Popanyinning",
+      "Stratherne",
+      "West Popanyinning"
+    ]
+  },
+  {
+    "postcode":"6311",
+    "name":[
+      "Commodine",
+      "Contine",
+      "Cuballing",
+      "Dryandra",
+      "Lol Gray",
+      "Townsendale",
+      "Wardering",
+      "Yornaning"
+    ]
+  },
+  {
+    "postcode":"6312",
+    "name":[
+      "Boundain",
+      "Dumberning",
+      "Hillside",
+      "Minigin",
+      "Narrogin",
+      "Narrogin Valley",
+      "Nomans Lake",
+      "Toolibin",
+      "Yilliminning"
+    ]
+  },
+  {
+    "postcode":"6313",
+    "name":[
+      "Highbury"
+    ]
+  },
+  {
+    "postcode":"6315",
+    "name":[
+      "Arthur River",
+      "Ballaying",
+      "Cancanning",
+      "Collanilling",
+      "Dongolocking",
+      "Gundaring",
+      "Jaloran",
+      "Lime Lake",
+      "Minding",
+      "Piesseville",
+      "Wagin",
+      "Wedgecarrup"
+    ]
+  },
+  {
+    "postcode":"6316",
+    "name":[
+      "Boyerine",
+      "Cartmeticup",
+      "Glencoe",
+      "Kenmare",
+      "Westwood",
+      "Woodanilling"
+    ]
+  },
+  {
+    "postcode":"6317",
+    "name":[
+      "Badgebup",
+      "Bullock Hills",
+      "Carrolup",
+      "Coblinine",
+      "Coyrecup",
+      "Datatine",
+      "Ewlyamartup",
+      "Katanning",
+      "Marracoonda",
+      "Moojebing",
+      "Murdong",
+      "Pinwernying",
+      "South Datatine",
+      "South Glencoe"
+    ]
+  },
+  {
+    "postcode":"6318",
+    "name":[
+      "Broomehill",
+      "Broomehill East",
+      "Broomehill Village",
+      "Broomehill West"
+    ]
+  },
+  {
+    "postcode":"6320",
+    "name":[
+      "Bobalong",
+      "Borderdale",
+      "Dartnall",
+      "Lake Toolbrunup",
+      "Moonies Hill",
+      "Tambellup",
+      "Wansbrough"
+    ]
+  },
+  {
+    "postcode":"6321",
+    "name":[
+      "Cranbrook"
+    ]
+  },
+  {
+    "postcode":"6322",
+    "name":[
+      "Tenterden"
+    ]
+  },
+  {
+    "postcode":"6323",
+    "name":[
+      "Kendenup"
+    ]
+  },
+  {
+    "postcode":"6324",
+    "name":[
+      "Denbarker",
+      "Forest Hill",
+      "Mount Barker",
+      "Perillup",
+      "Porongurup",
+      "South Stirling",
+      "Takalarup",
+      "Woogenellup"
+    ]
+  },
+  {
+    "postcode":"6326",
+    "name":[
+      "Narrikup"
+    ]
+  },
+  {
+    "postcode":"6327",
+    "name":[
+      "Redmond",
+      "Redmond West"
+    ]
+  },
+  {
+    "postcode":"6328",
+    "name":[
+      "Cape Riche",
+      "Cheynes",
+      "Gnowellen",
+      "Green Range",
+      "Kojaneerup South",
+      "Manypeaks",
+      "Palmdale",
+      "Wellstead"
+    ]
+  },
+  {
+    "postcode":"6330",
+    "name":[
+      "Albany",
+      "Bayonet Head",
+      "Big Grove",
+      "Bornholm",
+      "Centennial Park",
+      "Collingwood Heights",
+      "Collingwood Park",
+      "Cuthbert",
+      "Drome",
+      "Elleker",
+      "Emu Point",
+      "Frenchman Bay",
+      "Gledhow",
+      "Goode Beach",
+      "Green Valley",
+      "Kalgan",
+      "King River",
+      "Kronkup",
+      "Lange",
+      "Little Grove",
+      "Lockyer",
+      "Lower King",
+      "Lowlands",
+      "Marbelup",
+      "Mckail",
+      "Middleton Beach",
+      "Millbrook",
+      "Milpara",
+      "Mira Mar",
+      "Mount Clarence",
+      "Mount Elphinstone",
+      "Mount Melville",
+      "Nanarup",
+      "Napier",
+      "Nullaki",
+      "Orana",
+      "Port Albany",
+      "Robinson",
+      "Sandpatch",
+      "Seppings",
+      "Spencer Park",
+      "Torbay",
+      "Torndirrup",
+      "Vancouver Peninsula",
+      "Walmsley",
+      "Warrenup",
+      "West Cape Howe",
+      "Willyung",
+      "Yakamia",
+      "Youngs Siding"
+    ]
+  },
+  {
+    "postcode":"6331",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6332",
+    "name":[
+      "Albany"
+    ]
+  },
+  {
+    "postcode":"6333",
+    "name":[
+      "Bow Bridge",
+      "Denmark",
+      "Hay",
+      "Hazelvale",
+      "Kentdale",
+      "Kordabup",
+      "Mount Lindesay",
+      "Mount Romance",
+      "Nornalup",
+      "Ocean Beach",
+      "Parryville",
+      "Peaceful Bay",
+      "Scotsdale",
+      "Shadforth",
+      "Tingledale",
+      "Trent",
+      "William Bay"
+    ]
+  },
+  {
+    "postcode":"6335",
+    "name":[
+      "Gnowangerup",
+      "Jackitup",
+      "Kebaringup",
+      "Pallinup"
+    ]
+  },
+  {
+    "postcode":"6336",
+    "name":[
+      "Cowalellup",
+      "Mills Lake",
+      "Mindarabin",
+      "Needilup",
+      "Ongerup",
+      "Toompup"
+    ]
+  },
+  {
+    "postcode":"6337",
+    "name":[
+      "Fitzgerald",
+      "Gairdner",
+      "Jacup",
+      "Jerramungup",
+      "West Fitzgerald"
+    ]
+  },
+  {
+    "postcode":"6338",
+    "name":[
+      "Amelup",
+      "Borden",
+      "Boxwood Hill",
+      "Bremer Bay",
+      "Magitup",
+      "Monjebup",
+      "Nalyerlup",
+      "North Stirlings",
+      "Stirling Range National Park"
+    ]
+  },
+  {
+    "postcode":"6341",
+    "name":[
+      "Nyabing"
+    ]
+  },
+  {
+    "postcode":"6343",
+    "name":[
+      "Pingrup"
+    ]
+  },
+  {
+    "postcode":"6346",
+    "name":[
+      "Fitzgerald River National Park",
+      "Jerdacuttup",
+      "Ravensthorpe",
+      "West River"
+    ]
+  },
+  {
+    "postcode":"6348",
+    "name":[
+      "Hopetoun"
+    ]
+  },
+  {
+    "postcode":"6350",
+    "name":[
+      "Dumbleyung",
+      "Nairibin",
+      "Nippering"
+    ]
+  },
+  {
+    "postcode":"6351",
+    "name":[
+      "Moulyinning",
+      "North Moulyinning"
+    ]
+  },
+  {
+    "postcode":"6352",
+    "name":[
+      "Kukerin",
+      "Merilup",
+      "North Kukerin",
+      "South Kukerin"
+    ]
+  },
+  {
+    "postcode":"6353",
+    "name":[
+      "Beenong",
+      "Buniche",
+      "Kuender",
+      "Lake Grace",
+      "Mallee Hill",
+      "Neendaling",
+      "North Burngup",
+      "North Lake Grace",
+      "South Lake Grace",
+      "Tarin Rock"
+    ]
+  },
+  {
+    "postcode":"6355",
+    "name":[
+      "Dunn Rock",
+      "East Newdegate",
+      "Holt Rock",
+      "Lake Biddy",
+      "Lake Camm",
+      "Little Italy",
+      "Magenta",
+      "Mount Sheridan",
+      "Newdegate",
+      "South Newdegate",
+      "Varley"
+    ]
+  },
+  {
+    "postcode":"6356",
+    "name":[
+      "Lake King",
+      "Mount Madden"
+    ]
+  },
+  {
+    "postcode":"6357",
+    "name":[
+      "Pingaring"
+    ]
+  },
+  {
+    "postcode":"6358",
+    "name":[
+      "Karlgarin"
+    ]
+  },
+  {
+    "postcode":"6359",
+    "name":[
+      "Forrestania",
+      "Hyden"
+    ]
+  },
+  {
+    "postcode":"6361",
+    "name":[
+      "Harrismith",
+      "Tincurrin"
+    ]
+  },
+  {
+    "postcode":"6363",
+    "name":[
+      "Dudinin",
+      "Walyurin"
+    ]
+  },
+  {
+    "postcode":"6365",
+    "name":[
+      "Jilakin",
+      "Jitarning",
+      "Kulin",
+      "Kulin West"
+    ]
+  },
+  {
+    "postcode":"6367",
+    "name":[
+      "Bendering",
+      "Kondinin"
+    ]
+  },
+  {
+    "postcode":"6368",
+    "name":[
+      "South Kumminin"
+    ]
+  },
+  {
+    "postcode":"6369",
+    "name":[
+      "Emu Hill",
+      "Mount Walker",
+      "Narembeen",
+      "Wadderin",
+      "West Holleton",
+      "Woolocutty"
+    ]
+  },
+  {
+    "postcode":"6370",
+    "name":[
+      "East Wickepin",
+      "Kirk Rock",
+      "Malyalling",
+      "Wickepin",
+      "Wogolin"
+    ]
+  },
+  {
+    "postcode":"6372",
+    "name":[
+      "Yealering"
+    ]
+  },
+  {
+    "postcode":"6373",
+    "name":[
+      "Bullaring"
+    ]
+  },
+  {
+    "postcode":"6375",
+    "name":[
+      "Adamsvale",
+      "Bilbarin",
+      "Corrigin",
+      "Gorge Rock",
+      "Kunjin",
+      "Kurrenkutten"
+    ]
+  },
+  {
+    "postcode":"6383",
+    "name":[
+      "Badjaling",
+      "Balkuling",
+      "Cubbine",
+      "Dangin",
+      "Doodenanning",
+      "Dulbelling",
+      "Mawson",
+      "Mount Stirling",
+      "Quairading",
+      "South Caroling",
+      "South Quairading",
+      "Wamenusking",
+      "Yoting"
+    ]
+  },
+  {
+    "postcode":"6384",
+    "name":[
+      "Pantapin"
+    ]
+  },
+  {
+    "postcode":"6385",
+    "name":[
+      "Kwolyin"
+    ]
+  },
+  {
+    "postcode":"6386",
+    "name":[
+      "Shackleton"
+    ]
+  },
+  {
+    "postcode":"6390",
+    "name":[
+      "Bannister",
+      "Boddington",
+      "Crossman",
+      "Lower Hotham",
+      "Marradong",
+      "Mount Cooke",
+      "Mount Wells",
+      "North Bannister",
+      "Ranford",
+      "Upper Murray",
+      "Wuraming"
+    ]
+  },
+  {
+    "postcode":"6391",
+    "name":[
+      "Boraning",
+      "Congelin",
+      "Culbin",
+      "Hillman River",
+      "Narrakine",
+      "Quindanning",
+      "Tarwonga",
+      "Williams"
+    ]
+  },
+  {
+    "postcode":"6392",
+    "name":[
+      "Bokal",
+      "Boolading",
+      "Darkan"
+    ]
+  },
+  {
+    "postcode":"6393",
+    "name":[
+      "Cordering",
+      "Duranillin",
+      "Moodiarrup",
+      "Trigwell"
+    ]
+  },
+  {
+    "postcode":"6394",
+    "name":[
+      "Beaufort River",
+      "Boilup",
+      "Boscabel",
+      "Changerup",
+      "Muradup",
+      "Orchid Valley",
+      "Qualeup"
+    ]
+  },
+  {
+    "postcode":"6395",
+    "name":[
+      "Cherry Tree Pool",
+      "Jingalup",
+      "Kojonup",
+      "Lumeah",
+      "Mobrup",
+      "Ryansbrook"
+    ]
+  },
+  {
+    "postcode":"6396",
+    "name":[
+      "Frankland"
+    ]
+  },
+  {
+    "postcode":"6397",
+    "name":[
+      "Rocky Gully"
+    ]
+  },
+  {
+    "postcode":"6398",
+    "name":[
+      "Broke",
+      "North Walpole",
+      "Walpole"
+    ]
+  },
+  {
+    "postcode":"6401",
+    "name":[
+      "Buckland",
+      "Burlong",
+      "Cunjardine",
+      "Irishtown",
+      "Jennacubbine",
+      "Jennapullin",
+      "Malabaine",
+      "Meenaar",
+      "Mokine",
+      "Muluckine",
+      "Mumberkine",
+      "Muresk",
+      "Northam",
+      "Rossmore",
+      "Southern Brook",
+      "Spencers Brook",
+      "Throssell",
+      "Wongamine"
+    ]
+  },
+  {
+    "postcode":"6403",
+    "name":[
+      "Grass Valley"
+    ]
+  },
+  {
+    "postcode":"6405",
+    "name":[
+      "Greenwoods Valley",
+      "Meckering",
+      "Quelagetting",
+      "Warding East"
+    ]
+  },
+  {
+    "postcode":"6407",
+    "name":[
+      "Cunderdin",
+      "Waeel",
+      "Watercarrin",
+      "Wyola",
+      "Wyola West",
+      "Youndegin"
+    ]
+  },
+  {
+    "postcode":"6409",
+    "name":[
+      "Doongin",
+      "Tammin",
+      "Yorkrakine"
+    ]
+  },
+  {
+    "postcode":"6410",
+    "name":[
+      "Bungulla",
+      "Daadenning Creek",
+      "Kellerberrin",
+      "Mount Caroline",
+      "North Kellerberrin"
+    ]
+  },
+  {
+    "postcode":"6411",
+    "name":[
+      "Doodlakine",
+      "South Doodlakine"
+    ]
+  },
+  {
+    "postcode":"6412",
+    "name":[
+      "Baandee",
+      "North Baandee"
+    ]
+  },
+  {
+    "postcode":"6413",
+    "name":[
+      "Hines Hill"
+    ]
+  },
+  {
+    "postcode":"6414",
+    "name":[
+      "Nangeenan"
+    ]
+  },
+  {
+    "postcode":"6415",
+    "name":[
+      "Goomarin",
+      "Korbel",
+      "Merredin",
+      "Nokaning",
+      "Norpa",
+      "Tandegin"
+    ]
+  },
+  {
+    "postcode":"6418",
+    "name":[
+      "Bruce Rock",
+      "Yarding"
+    ]
+  },
+  {
+    "postcode":"6419",
+    "name":[
+      "Ardath"
+    ]
+  },
+  {
+    "postcode":"6420",
+    "name":[
+      "Cramphorne",
+      "Muntadgin"
+    ]
+  },
+  {
+    "postcode":"6421",
+    "name":[
+      "Burracoppin",
+      "Campion",
+      "South Burracoppin",
+      "Warralakin"
+    ]
+  },
+  {
+    "postcode":"6422",
+    "name":[
+      "Walgoolan"
+    ]
+  },
+  {
+    "postcode":"6423",
+    "name":[
+      "Boodarockin",
+      "Carrabin",
+      "Warrachuppin",
+      "Westonia"
+    ]
+  },
+  {
+    "postcode":"6424",
+    "name":[
+      "Bodallin",
+      "North Bodallin",
+      "South Bodallin"
+    ]
+  },
+  {
+    "postcode":"6425",
+    "name":[
+      "Dulyalbin",
+      "Moorine Rock"
+    ]
+  },
+  {
+    "postcode":"6426",
+    "name":[
+      "Corinthia",
+      "Ghooli",
+      "Holleton",
+      "Marvel Loch",
+      "Mount Hampton",
+      "Mount Holland",
+      "Mount Jackson",
+      "Mount Palmer",
+      "Parker Range",
+      "Skeleton Rock",
+      "South Yilgarn",
+      "Southern Cross",
+      "Turkey Hill",
+      "Yellowdine"
+    ]
+  },
+  {
+    "postcode":"6427",
+    "name":[
+      "Koolyanobbing"
+    ]
+  },
+  {
+    "postcode":"6428",
+    "name":[
+      "Babakin"
+    ]
+  },
+  {
+    "postcode":"6429",
+    "name":[
+      "Boorabbin",
+      "Bullabulling",
+      "Coolgardie",
+      "Karramindie",
+      "Londonderry",
+      "Mount Burges",
+      "Victoria Rock",
+      "Wallaroo"
+    ]
+  },
+  {
+    "postcode":"6430",
+    "name":[
+      "Binduli",
+      "Broadwood",
+      "Hannans",
+      "Kalgoorlie",
+      "Karlkurla",
+      "Lamington",
+      "Mullingar",
+      "Piccadilly",
+      "Somerville",
+      "South Kalgoorlie",
+      "West Kalgoorlie",
+      "West Lamington",
+      "Williamstown",
+      "Yilkari"
+    ]
+  },
+  {
+    "postcode":"6431",
+    "name":[
+      "Boorara",
+      "Brown Hill",
+      "Bulong",
+      "Emu Flat",
+      "Feysville",
+      "Kanowna",
+      "Kookynie",
+      "Kurnalpi",
+      "Lakewood",
+      "Ora Banda",
+      "Plumridge Lakes",
+      "Trafalgar",
+      "Warburton"
+    ]
+  },
+  {
+    "postcode":"6432",
+    "name":[
+      "Fimiston",
+      "South Boulder",
+      "Victory Heights"
+    ]
+  },
+  {
+    "postcode":"6433",
+    "name":[
+      "Hannans",
+      "Kalgoorlie"
+    ]
+  },
+  {
+    "postcode":"6434",
+    "name":[
+      "Cundeelee",
+      "Forrest",
+      "Parkeston",
+      "Rawlinna",
+      "Zanthus"
+    ]
+  },
+  {
+    "postcode":"6435",
+    "name":[
+      "Agnew"
+    ]
+  },
+  {
+    "postcode":"6436",
+    "name":[
+      "Menzies",
+      "Ularring"
+    ]
+  },
+  {
+    "postcode":"6437",
+    "name":[
+      "Leinster",
+      "Sir Samuel"
+    ]
+  },
+  {
+    "postcode":"6438",
+    "name":[
+      "Lake Darlot",
+      "Leonora"
+    ]
+  },
+  {
+    "postcode":"6440",
+    "name":[
+      "Bandya",
+      "Beadell",
+      "Burtville",
+      "Cosmo Newbery",
+      "Lake Wells",
+      "Laverton",
+      "Neale"
+    ]
+  },
+  {
+    "postcode":"6442",
+    "name":[
+      "Kambalda"
+    ]
+  },
+  {
+    "postcode":"6443",
+    "name":[
+      "Balladonia",
+      "Caiguna",
+      "Cocklebiddy",
+      "Dundas",
+      "Eucla",
+      "Fraser Range",
+      "Higginsville",
+      "Madura",
+      "Mundrabilla",
+      "Norseman",
+      "Widgiemooltha"
+    ]
+  },
+  {
+    "postcode":"6445",
+    "name":[
+      "North Cascade",
+      "Salmon Gums"
+    ]
+  },
+  {
+    "postcode":"6446",
+    "name":[
+      "Grass Patch"
+    ]
+  },
+  {
+    "postcode":"6447",
+    "name":[
+      "Lort River",
+      "Mount Ney",
+      "Scaddan",
+      "Wittenoom Hills"
+    ]
+  },
+  {
+    "postcode":"6448",
+    "name":[
+      "Gibson"
+    ]
+  },
+  {
+    "postcode":"6450",
+    "name":[
+      "Bandy Creek",
+      "Beaumont",
+      "Boyatup",
+      "Cape Le Grand",
+      "Cascade",
+      "Castletown",
+      "Chadwick",
+      "Condingup",
+      "Coomalbidgup",
+      "Dalyup",
+      "East Munglinup",
+      "Esperance",
+      "Howick",
+      "Merivale",
+      "Monjingup",
+      "Munglinup",
+      "Myrup",
+      "Neridup",
+      "Nulsen",
+      "Pink Lake",
+      "Sinclair",
+      "West Beach",
+      "Windabout"
+    ]
+  },
+  {
+    "postcode":"6452",
+    "name":[
+      "Buraminya",
+      "Cape Arid",
+      "Israelite Bay"
+    ]
+  },
+  {
+    "postcode":"6460",
+    "name":[
+      "Goomalling",
+      "Hulongine",
+      "Karranadgin",
+      "Ucarty West",
+      "Walyormouring"
+    ]
+  },
+  {
+    "postcode":"6461",
+    "name":[
+      "Dowerin",
+      "Koomberkine"
+    ]
+  },
+  {
+    "postcode":"6462",
+    "name":[
+      "Hindmarsh",
+      "Minnivale",
+      "Ucarty"
+    ]
+  },
+  {
+    "postcode":"6463",
+    "name":[
+      "Benjaberring"
+    ]
+  },
+  {
+    "postcode":"6465",
+    "name":[
+      "Manmanning"
+    ]
+  },
+  {
+    "postcode":"6466",
+    "name":[
+      "Cadoux"
+    ]
+  },
+  {
+    "postcode":"6467",
+    "name":[
+      "Burakin"
+    ]
+  },
+  {
+    "postcode":"6468",
+    "name":[
+      "Goodlands",
+      "Kalannie",
+      "Petrudor"
+    ]
+  },
+  {
+    "postcode":"6470",
+    "name":[
+      "Kulja"
+    ]
+  },
+  {
+    "postcode":"6472",
+    "name":[
+      "Beacon",
+      "Bimbijy",
+      "Cleary",
+      "Karroun Hill",
+      "Mouroubra",
+      "Remlap"
+    ]
+  },
+  {
+    "postcode":"6473",
+    "name":[
+      "North Wialki",
+      "Wialki"
+    ]
+  },
+  {
+    "postcode":"6475",
+    "name":[
+      "Badgerin Rock",
+      "Booralaming",
+      "Dukin",
+      "Koorda",
+      "Lake Margarette",
+      "Mollerin",
+      "Newcarlbeon"
+    ]
+  },
+  {
+    "postcode":"6476",
+    "name":[
+      "Gabbin"
+    ]
+  },
+  {
+    "postcode":"6477",
+    "name":[
+      "Bencubbin",
+      "Welbungin"
+    ]
+  },
+  {
+    "postcode":"6479",
+    "name":[
+      "Barbalin",
+      "Bonnie Rock",
+      "Dandanning",
+      "Elachbutting",
+      "Karloning",
+      "Lake Brown",
+      "Mangowine",
+      "Mukinbudin",
+      "Wattoning",
+      "Wilgoyne"
+    ]
+  },
+  {
+    "postcode":"6480",
+    "name":[
+      "Nukarni"
+    ]
+  },
+  {
+    "postcode":"6484",
+    "name":[
+      "Bullfinch",
+      "Ennuin",
+      "Lake Deborah"
+    ]
+  },
+  {
+    "postcode":"6485",
+    "name":[
+      "Cowcowing",
+      "Korrelocking",
+      "Nalkain",
+      "Nembudding",
+      "Wyalkatchem"
+    ]
+  },
+  {
+    "postcode":"6487",
+    "name":[
+      "North Yelbeni",
+      "South Yelbeni",
+      "Yelbeni"
+    ]
+  },
+  {
+    "postcode":"6488",
+    "name":[
+      "North Trayning",
+      "South Trayning",
+      "Trayning"
+    ]
+  },
+  {
+    "postcode":"6489",
+    "name":[
+      "Kununoppin",
+      "North Kununoppin",
+      "South Kununoppin"
+    ]
+  },
+  {
+    "postcode":"6490",
+    "name":[
+      "Burran Rock",
+      "Chandler",
+      "Elabbin",
+      "Kwelkan",
+      "Nungarin",
+      "Talgomine"
+    ]
+  },
+  {
+    "postcode":"6501",
+    "name":[
+      "Muchea"
+    ]
+  },
+  {
+    "postcode":"6502",
+    "name":[
+      "Bindoon",
+      "Bindoon Training Area"
+    ]
+  },
+  {
+    "postcode":"6503",
+    "name":[
+      "Bambun",
+      "Beermullah",
+      "Boonanarring",
+      "Breera",
+      "Coonabidgee",
+      "Cowalla",
+      "Cullalla",
+      "Gingin",
+      "Ginginup",
+      "Granville",
+      "Lennard Brook",
+      "Mindarra",
+      "Moondah",
+      "Moore River National Park",
+      "Muckenburra",
+      "Neergabby",
+      "Orange Springs",
+      "Red Gully",
+      "Wanerie",
+      "Yeal"
+    ]
+  },
+  {
+    "postcode":"6504",
+    "name":[
+      "Mooliabeenee"
+    ]
+  },
+  {
+    "postcode":"6505",
+    "name":[
+      "Wannamal"
+    ]
+  },
+  {
+    "postcode":"6506",
+    "name":[
+      "Mogumber"
+    ]
+  },
+  {
+    "postcode":"6507",
+    "name":[
+      "Cataby",
+      "Cooljarloo",
+      "Dandaragan",
+      "Mimegarra",
+      "Regans Ford",
+      "Yathroo"
+    ]
+  },
+  {
+    "postcode":"6509",
+    "name":[
+      "Glentromie",
+      "New Norcia",
+      "Waddington",
+      "Yarawindah"
+    ]
+  },
+  {
+    "postcode":"6510",
+    "name":[
+      "Barberton",
+      "Berkshire Valley",
+      "Gillingarra",
+      "Koojan",
+      "Moora",
+      "Walebing"
+    ]
+  },
+  {
+    "postcode":"6511",
+    "name":[
+      "Cervantes"
+    ]
+  },
+  {
+    "postcode":"6512",
+    "name":[
+      "Coomberdale",
+      "Namban"
+    ]
+  },
+  {
+    "postcode":"6513",
+    "name":[
+      "Gunyidi",
+      "Watheroo"
+    ]
+  },
+  {
+    "postcode":"6514",
+    "name":[
+      "Green Head",
+      "Leeman"
+    ]
+  },
+  {
+    "postcode":"6515",
+    "name":[
+      "Coorow",
+      "Eganu",
+      "Marchagee",
+      "Waddy Forest"
+    ]
+  },
+  {
+    "postcode":"6516",
+    "name":[
+      "Jurien Bay"
+    ]
+  },
+  {
+    "postcode":"6517",
+    "name":[
+      "Carnamah",
+      "Winchester"
+    ]
+  },
+  {
+    "postcode":"6518",
+    "name":[
+      "Eneabba",
+      "Warradarge"
+    ]
+  },
+  {
+    "postcode":"6519",
+    "name":[
+      "Arrino",
+      "Arrowsmith East",
+      "Dudawa",
+      "Kadathinni",
+      "Three Springs",
+      "Womarden"
+    ]
+  },
+  {
+    "postcode":"6521",
+    "name":[
+      "Badgingarra",
+      "Boothendarra",
+      "Grey",
+      "Hill River",
+      "Nambung"
+    ]
+  },
+  {
+    "postcode":"6522",
+    "name":[
+      "Bundanoon",
+      "Holmwood",
+      "Ikewa",
+      "Lockier",
+      "Mingenew",
+      "Mooriary",
+      "Mount Budd",
+      "Nangetty",
+      "Yandanooka",
+      "Yarragadee"
+    ]
+  },
+  {
+    "postcode":"6525",
+    "name":[
+      "Allanooka",
+      "Arrowsmith",
+      "Bonniefield",
+      "Bookara",
+      "Dongara",
+      "Irwin",
+      "Milo",
+      "Mount Adams",
+      "Mount Horner",
+      "Port Denison",
+      "Springfield",
+      "Yardarino"
+    ]
+  },
+  {
+    "postcode":"6528",
+    "name":[
+      "Mount Hill",
+      "South Greenough",
+      "Walkaway"
+    ]
+  },
+  {
+    "postcode":"6530",
+    "name":[
+      "Beachlands",
+      "Beresford",
+      "Bluff Point",
+      "Geraldton",
+      "Geraldton Dc",
+      "Karloo",
+      "Mahomets Flats",
+      "Meru",
+      "Moresby",
+      "Mount Tarcoola",
+      "Rangeway",
+      "Spalding",
+      "Strathalbyn",
+      "Sunset Beach",
+      "Tarcoola Beach",
+      "Utakarra",
+      "Waggrakine",
+      "Wandina",
+      "Webberton",
+      "West End",
+      "Wonthella",
+      "Woorree"
+    ]
+  },
+  {
+    "postcode":"6531",
+    "name":[
+      "Geraldton"
+    ]
+  },
+  {
+    "postcode":"6532",
+    "name":[
+      "Ajana",
+      "Binnu",
+      "Bootenal",
+      "Bringo",
+      "Buller",
+      "Burma Road",
+      "Cape Burney",
+      "Carrarang",
+      "Coburn",
+      "Coolcalalaya",
+      "Dartmoor",
+      "Deepdale",
+      "Dindiloa",
+      "Drummond Cove",
+      "Durawah",
+      "East Chapman",
+      "East Nabawa",
+      "East Yuna",
+      "Ellendale",
+      "Eradu",
+      "Eradu South",
+      "Eurardy",
+      "Georgina",
+      "Glenfield",
+      "Greenough",
+      "Hamelin Pool",
+      "Hickety",
+      "Howatharra",
+      "Kojarena",
+      "Marrah",
+      "Meadow",
+      "Minnenooka",
+      "Moonyoonooka",
+      "Mount Erin",
+      "Nabawa",
+      "Nanson",
+      "Naraling",
+      "Narngulu",
+      "Narra Tarra",
+      "Nerren Nerren",
+      "Nolba",
+      "North Eradu",
+      "Northern Gully",
+      "Oakajee",
+      "Rockwell",
+      "Rudds Gully",
+      "Sandsprings",
+      "South Yuna",
+      "Tamala",
+      "Tibradden",
+      "Toolonga",
+      "Valentine",
+      "Wandana",
+      "West Binnu",
+      "White Peak",
+      "Wicherina",
+      "Wicherina South",
+      "Yetna",
+      "Yuna"
+    ]
+  },
+  {
+    "postcode":"6535",
+    "name":[
+      "Alma",
+      "Bowes",
+      "East Bowes",
+      "Gregory",
+      "Horrocks",
+      "Isseka",
+      "Northampton",
+      "Ogilvie",
+      "Sandy Gully",
+      "Yallabatharra"
+    ]
+  },
+  {
+    "postcode":"6536",
+    "name":[
+      "Kalbarri",
+      "Kalbarri National Park",
+      "Zuytdorp"
+    ]
+  },
+  {
+    "postcode":"6537",
+    "name":[
+      "Denham",
+      "Dirk Hartog",
+      "Francois Peron National Park",
+      "Monkey Mia",
+      "Nanga",
+      "Shark Bay",
+      "Useless Loop"
+    ]
+  },
+  {
+    "postcode":"6556",
+    "name":[
+      "Beechina",
+      "Chidlow",
+      "Gorrie",
+      "Malmalling",
+      "The Lakes"
+    ]
+  },
+  {
+    "postcode":"6558",
+    "name":[
+      "Wooroloo"
+    ]
+  },
+  {
+    "postcode":"6560",
+    "name":[
+      "Wundowie"
+    ]
+  },
+  {
+    "postcode":"6562",
+    "name":[
+      "Bakers Hill",
+      "Copley",
+      "Woottating"
+    ]
+  },
+  {
+    "postcode":"6564",
+    "name":[
+      "Clackline"
+    ]
+  },
+  {
+    "postcode":"6566",
+    "name":[
+      "Bejoording",
+      "Carani",
+      "Coondle",
+      "Culham",
+      "Dumbarton",
+      "Hoddys Well",
+      "Katrine",
+      "Nunile",
+      "Toodyay",
+      "West Toodyay"
+    ]
+  },
+  {
+    "postcode":"6567",
+    "name":[
+      "Dewars Pool",
+      "Julimar",
+      "Moondyne"
+    ]
+  },
+  {
+    "postcode":"6568",
+    "name":[
+      "Bolgart",
+      "Wattening",
+      "Wyening"
+    ]
+  },
+  {
+    "postcode":"6569",
+    "name":[
+      "Calingiri",
+      "Old Plains"
+    ]
+  },
+  {
+    "postcode":"6571",
+    "name":[
+      "Yerecoin"
+    ]
+  },
+  {
+    "postcode":"6572",
+    "name":[
+      "Piawaning"
+    ]
+  },
+  {
+    "postcode":"6574",
+    "name":[
+      "Bindi Bindi",
+      "Gabalong"
+    ]
+  },
+  {
+    "postcode":"6575",
+    "name":[
+      "Miling"
+    ]
+  },
+  {
+    "postcode":"6603",
+    "name":[
+      "Konnongorring",
+      "Lake Hinds",
+      "Lake Ninan",
+      "Mocardy",
+      "Wongan Hills"
+    ]
+  },
+  {
+    "postcode":"6605",
+    "name":[
+      "Kondut"
+    ]
+  },
+  {
+    "postcode":"6606",
+    "name":[
+      "Ballidu",
+      "East Ballidu",
+      "West Ballidu"
+    ]
+  },
+  {
+    "postcode":"6608",
+    "name":[
+      "East Damboring",
+      "Marne",
+      "Pithara"
+    ]
+  },
+  {
+    "postcode":"6609",
+    "name":[
+      "Dalwallinu",
+      "Nugadong",
+      "Xantippe"
+    ]
+  },
+  {
+    "postcode":"6612",
+    "name":[
+      "Jibberding",
+      "Miamoon",
+      "Paynes Find",
+      "Wubin"
+    ]
+  },
+  {
+    "postcode":"6613",
+    "name":[
+      "Buntine"
+    ]
+  },
+  {
+    "postcode":"6614",
+    "name":[
+      "Maya"
+    ]
+  },
+  {
+    "postcode":"6616",
+    "name":[
+      "Latham"
+    ]
+  },
+  {
+    "postcode":"6620",
+    "name":[
+      "Perenjori",
+      "Rothsay"
+    ]
+  },
+  {
+    "postcode":"6623",
+    "name":[
+      "Bowgada",
+      "Bunjil",
+      "Gutha",
+      "Koolanooka",
+      "Morawa",
+      "Pintharuka"
+    ]
+  },
+  {
+    "postcode":"6625",
+    "name":[
+      "Merkanooka"
+    ]
+  },
+  {
+    "postcode":"6627",
+    "name":[
+      "Canna"
+    ]
+  },
+  {
+    "postcode":"6628",
+    "name":[
+      "Tardun"
+    ]
+  },
+  {
+    "postcode":"6630",
+    "name":[
+      "Devils Creek",
+      "Mullewa",
+      "Murchison",
+      "Nerramyne",
+      "Nunierra",
+      "Wongoondy",
+      "Woolgorong"
+    ]
+  },
+  {
+    "postcode":"6631",
+    "name":[
+      "Pindar"
+    ]
+  },
+  {
+    "postcode":"6632",
+    "name":[
+      "Ambania",
+      "Tenindewa"
+    ]
+  },
+  {
+    "postcode":"6635",
+    "name":[
+      "South Murchison",
+      "Yalgoo"
+    ]
+  },
+  {
+    "postcode":"6638",
+    "name":[
+      "Cooladar Hill",
+      "Daggar Hills",
+      "Mount Magnet",
+      "Paynesville"
+    ]
+  },
+  {
+    "postcode":"6639",
+    "name":[
+      "Sandstone"
+    ]
+  },
+  {
+    "postcode":"6640",
+    "name":[
+      "Cue",
+      "East Murchison",
+      "Lake Austin",
+      "Reedy",
+      "Weld Range"
+    ]
+  },
+  {
+    "postcode":"6642",
+    "name":[
+      "Angelo River",
+      "Capricorn",
+      "Kumarina",
+      "Meekatharra",
+      "Peak Hill"
+    ]
+  },
+  {
+    "postcode":"6646",
+    "name":[
+      "Lake Carnegie",
+      "Little Sandy Desert",
+      "Wiluna"
+    ]
+  },
+  {
+    "postcode":"6701",
+    "name":[
+      "Babbage Island",
+      "Bernier Island",
+      "Brockman",
+      "Brown Range",
+      "Carbla",
+      "Carnarvon",
+      "Coral Bay",
+      "Dorre Island",
+      "East Carnarvon",
+      "Gilroyd",
+      "Greys Plain",
+      "Inggarda",
+      "Kennedy Range",
+      "Kingsford",
+      "Lyndon",
+      "Macleod",
+      "Massey Bay",
+      "Mauds Landing",
+      "Minilya",
+      "Morgantown",
+      "Ningaloo",
+      "North Plantations",
+      "South Carnarvon",
+      "South Plantations",
+      "Talisker",
+      "Woodleigh",
+      "Wooramel",
+      "Yalardy",
+      "Yandoo Creek"
+    ]
+  },
+  {
+    "postcode":"6705",
+    "name":[
+      "East Lyons River",
+      "Gascoyne Junction",
+      "Gascoyne River",
+      "West Lyons River"
+    ]
+  },
+  {
+    "postcode":"6707",
+    "name":[
+      "Cape Range National Park",
+      "Exmouth",
+      "Exmouth Gulf",
+      "Learmonth",
+      "North West Cape"
+    ]
+  },
+  {
+    "postcode":"6710",
+    "name":[
+      "Cane",
+      "Onslow",
+      "Peedamulla",
+      "Talandji",
+      "Yannarie"
+    ]
+  },
+  {
+    "postcode":"6711",
+    "name":[
+      "Thevenard Island"
+    ]
+  },
+  {
+    "postcode":"6712",
+    "name":[
+      "Barrow Island"
+    ]
+  },
+  {
+    "postcode":"6713",
+    "name":[
+      "Dampier",
+      "Dampier Archipelago"
+    ]
+  },
+  {
+    "postcode":"6714",
+    "name":[
+      "Antonymyre",
+      "Balla Balla",
+      "Baynton",
+      "Bulgarra",
+      "Burrup",
+      "Cleaverville",
+      "Cooya Pooya",
+      "Gap Ridge",
+      "Gnoorea",
+      "Karratha",
+      "Karratha Industrial Estate",
+      "Maitland",
+      "Mardie",
+      "Millars Well",
+      "Mount Anketell",
+      "Mulataga",
+      "Nickol",
+      "Pegs Creek",
+      "Sherlock",
+      "Stove Hill"
+    ]
+  },
+  {
+    "postcode":"6716",
+    "name":[
+      "Fortescue",
+      "Hamersley Range",
+      "Millstream",
+      "Pannawonica"
+    ]
+  },
+  {
+    "postcode":"6718",
+    "name":[
+      "Roebourne",
+      "Whim Creek"
+    ]
+  },
+  {
+    "postcode":"6720",
+    "name":[
+      "Cossack",
+      "Point Samson",
+      "Wickham"
+    ]
+  },
+  {
+    "postcode":"6721",
+    "name":[
+      "Indee",
+      "Mundabullangana",
+      "Pardoo",
+      "Port Hedland",
+      "Redbank",
+      "Strelley",
+      "Wallareenya",
+      "Wedgefield"
+    ]
+  },
+  {
+    "postcode":"6722",
+    "name":[
+      "Boodarie",
+      "De Grey",
+      "Finucane",
+      "Pippingarra",
+      "South Hedland"
+    ]
+  },
+  {
+    "postcode":"6723",
+    "name":[
+      "Goldsworthy"
+    ]
+  },
+  {
+    "postcode":"6725",
+    "name":[
+      "Bilingurr",
+      "Broome",
+      "Dampier Peninsula",
+      "Djugun",
+      "Eighty Mile Beach",
+      "Gingerah",
+      "Lagrange",
+      "Minyirr",
+      "Roebuck",
+      "Waterbank"
+    ]
+  },
+  {
+    "postcode":"6726",
+    "name":[
+      "Cable Beach"
+    ]
+  },
+  {
+    "postcode":"6728",
+    "name":[
+      "Camballin",
+      "Derby",
+      "Geegully Creek",
+      "Kimbolton",
+      "King Leopold Ranges",
+      "Meda",
+      "St George Ranges",
+      "Willare"
+    ]
+  },
+  {
+    "postcode":"6731",
+    "name":[
+      "Cockatoo Island"
+    ]
+  },
+  {
+    "postcode":"6733",
+    "name":[
+      "Koolan Island"
+    ]
+  },
+  {
+    "postcode":"6740",
+    "name":[
+      "Drysdale River",
+      "Kalumburu",
+      "Mitchell Plateau",
+      "Oombulgurri",
+      "Prince Regent River",
+      "Wyndham"
+    ]
+  },
+  {
+    "postcode":"6743",
+    "name":[
+      "Cambridge Gulf",
+      "Durack",
+      "Gibb",
+      "Kununurra",
+      "Lake Argyle",
+      "Warmun"
+    ]
+  },
+  {
+    "postcode":"6751",
+    "name":[
+      "Chichester",
+      "Innawanga",
+      "Juna Downs",
+      "Karijini",
+      "Mount Sheila",
+      "Mulga Downs",
+      "Nanutarra",
+      "Rocklea",
+      "Tom Price",
+      "Wittenoom"
+    ]
+  },
+  {
+    "postcode":"6753",
+    "name":[
+      "Newman"
+    ]
+  },
+  {
+    "postcode":"6754",
+    "name":[
+      "Paraburdoo"
+    ]
+  },
+  {
+    "postcode":"6758",
+    "name":[
+      "Nullagine"
+    ]
+  },
+  {
+    "postcode":"6760",
+    "name":[
+      "Marble Bar"
+    ]
+  },
+  {
+    "postcode":"6761",
+    "name":[
+      "Shay Gap"
+    ]
+  },
+  {
+    "postcode":"6762",
+    "name":[
+      "Telfer"
+    ]
+  },
+  {
+    "postcode":"6765",
+    "name":[
+      "Fitzroy Crossing",
+      "Mount Hardman"
+    ]
+  },
+  {
+    "postcode":"6770",
+    "name":[
+      "Halls Creek",
+      "Mcbeath",
+      "Mueller Ranges",
+      "Ord River",
+      "Purnululu",
+      "Sturt Creek",
+      "Tanami"
+    ]
+  },
+  {
+    "postcode":"6798",
+    "name":[
+      "Christmas Island"
+    ]
+  },
+  {
+    "postcode":"6799",
+    "name":[
+      "Home Island Cocos (keeling)",
+      "West Island Cocos (keeling)"
+    ]
+  },
+  {
+    "postcode":"6800",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6803",
+    "name":[
+      "Northbridge"
+    ]
+  },
+  {
+    "postcode":"6809",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6817",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6820",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6827",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6830",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6831",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6832",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6837",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6838",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6839",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6840",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6841",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6842",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6843",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6844",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6845",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6846",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6847",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6848",
+    "name":[
+      "Perth"
+    ]
+  },
+  {
+    "postcode":"6849",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6850",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6865",
+    "name":[
+      "Northbridge"
+    ]
+  },
+  {
+    "postcode":"6872",
+    "name":[
+      "West Perth"
+    ]
+  },
+  {
+    "postcode":"6892",
+    "name":[
+      "East Perth"
+    ]
+  },
+  {
+    "postcode":"6900",
+    "name":[
+      "Leederville"
+    ]
+  },
+  {
+    "postcode":"6901",
+    "name":[
+      "West Leederville"
+    ]
+  },
+  {
+    "postcode":"6902",
+    "name":[
+      "Leederville"
+    ]
+  },
+  {
+    "postcode":"6903",
+    "name":[
+      "Leederville"
+    ]
+  },
+  {
+    "postcode":"6904",
+    "name":[
+      "Subiaco"
+    ]
+  },
+  {
+    "postcode":"6905",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6906",
+    "name":[
+      "North Perth"
+    ]
+  },
+  {
+    "postcode":"6907",
+    "name":[
+      "University Of Western Australia"
+    ]
+  },
+  {
+    "postcode":"6909",
+    "name":[
+      "Nedlands"
+    ]
+  },
+  {
+    "postcode":"6910",
+    "name":[
+      "Claremont"
+    ]
+  },
+  {
+    "postcode":"6911",
+    "name":[
+      "Cottesloe"
+    ]
+  },
+  {
+    "postcode":"6912",
+    "name":[
+      "Mosman Park"
+    ]
+  },
+  {
+    "postcode":"6913",
+    "name":[
+      "Wembley"
+    ]
+  },
+  {
+    "postcode":"6914",
+    "name":[
+      "Balcatta"
+    ]
+  },
+  {
+    "postcode":"6915",
+    "name":[
+      "Mount Hawthorn"
+    ]
+  },
+  {
+    "postcode":"6916",
+    "name":[
+      "Osborne Park",
+      "Osborne Park Dc"
+    ]
+  },
+  {
+    "postcode":"6917",
+    "name":[
+      "Osborne Park"
+    ]
+  },
+  {
+    "postcode":"6918",
+    "name":[
+      "Innaloo"
+    ]
+  },
+  {
+    "postcode":"6919",
+    "name":[
+      "Joondalup Dc"
+    ]
+  },
+  {
+    "postcode":"6920",
+    "name":[
+      "North Beach"
+    ]
+  },
+  {
+    "postcode":"6921",
+    "name":[
+      "Karrinyup"
+    ]
+  },
+  {
+    "postcode":"6922",
+    "name":[
+      "Scarborough"
+    ]
+  },
+  {
+    "postcode":"6923",
+    "name":[
+      "Hillarys"
+    ]
+  },
+  {
+    "postcode":"6924",
+    "name":[
+      "Greenwood"
+    ]
+  },
+  {
+    "postcode":"6925",
+    "name":[
+      "Walliston Dc"
+    ]
+  },
+  {
+    "postcode":"6926",
+    "name":[
+      "Kalamunda"
+    ]
+  },
+  {
+    "postcode":"6929",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6931",
+    "name":[
+      "Maylands"
+    ]
+  },
+  {
+    "postcode":"6932",
+    "name":[
+      "Inglewood"
+    ]
+  },
+  {
+    "postcode":"6933",
+    "name":[
+      "Bayswater"
+    ]
+  },
+  {
+    "postcode":"6934",
+    "name":[
+      "Bassendean"
+    ]
+  },
+  {
+    "postcode":"6935",
+    "name":[
+      "Guildford"
+    ]
+  },
+  {
+    "postcode":"6936",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6937",
+    "name":[
+      "Tuart Hill"
+    ]
+  },
+  {
+    "postcode":"6938",
+    "name":[
+      "Tuart Hill"
+    ]
+  },
+  {
+    "postcode":"6939",
+    "name":[
+      "Tuart Hill"
+    ]
+  },
+  {
+    "postcode":"6940",
+    "name":[
+      "Tuart Hill"
+    ]
+  },
+  {
+    "postcode":"6941",
+    "name":[
+      "Mirrabooka"
+    ]
+  },
+  {
+    "postcode":"6942",
+    "name":[
+      "Bassendean Dc"
+    ]
+  },
+  {
+    "postcode":"6943",
+    "name":[
+      "Morley"
+    ]
+  },
+  {
+    "postcode":"6944",
+    "name":[
+      "Malaga"
+    ]
+  },
+  {
+    "postcode":"6945",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6946",
+    "name":[
+      "Wanneroo"
+    ]
+  },
+  {
+    "postcode":"6947",
+    "name":[
+      "Wangara Dc"
+    ]
+  },
+  {
+    "postcode":"6951",
+    "name":[
+      "South Perth"
+    ]
+  },
+  {
+    "postcode":"6952",
+    "name":[
+      "Como"
+    ]
+  },
+  {
+    "postcode":"6953",
+    "name":[
+      "Applecross"
+    ]
+  },
+  {
+    "postcode":"6954",
+    "name":[
+      "Booragoon"
+    ]
+  },
+  {
+    "postcode":"6955",
+    "name":[
+      "Willetton"
+    ]
+  },
+  {
+    "postcode":"6956",
+    "name":[
+      "Melville"
+    ]
+  },
+  {
+    "postcode":"6957",
+    "name":[
+      "Palmyra"
+    ]
+  },
+  {
+    "postcode":"6958",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6959",
+    "name":[
+      "Fremantle"
+    ]
+  },
+  {
+    "postcode":"6960",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6961",
+    "name":[
+      "Palmyra Dc"
+    ]
+  },
+  {
+    "postcode":"6963",
+    "name":[
+      "Hamilton Hill"
+    ]
+  },
+  {
+    "postcode":"6964",
+    "name":[
+      "Success"
+    ]
+  },
+  {
+    "postcode":"6965",
+    "name":[
+      "Bibra Lake Dc"
+    ]
+  },
+  {
+    "postcode":"6966",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6967",
+    "name":[
+      "Rockingham Dc"
+    ]
+  },
+  {
+    "postcode":"6968",
+    "name":[
+      "Rockingham"
+    ]
+  },
+  {
+    "postcode":"6969",
+    "name":[
+      "Administrative Postcode Only"
+    ]
+  },
+  {
+    "postcode":"6970",
+    "name":[
+      "Canning Vale Dc"
+    ]
+  },
+  {
+    "postcode":"6979",
+    "name":[
+      "Victoria Park"
+    ]
+  },
+  {
+    "postcode":"6980",
+    "name":[
+      "Cannington"
+    ]
+  },
+  {
+    "postcode":"6981",
+    "name":[
+      "East Victoria Park"
+    ]
+  },
+  {
+    "postcode":"6982",
+    "name":[
+      "Bentley"
+    ]
+  },
+  {
+    "postcode":"6983",
+    "name":[
+      "Bentley Dc"
+    ]
+  },
+  {
+    "postcode":"6984",
+    "name":[
+      "Belmont"
+    ]
+  },
+  {
+    "postcode":"6985",
+    "name":[
+      "Cloverdale"
+    ]
+  },
+  {
+    "postcode":"6986",
+    "name":[
+      "Welshpool Dc"
+    ]
+  },
+  {
+    "postcode":"6987",
+    "name":[
+      "Cannington"
+    ]
+  },
+  {
+    "postcode":"6988",
+    "name":[
+      "Thornlie"
+    ]
+  },
+  {
+    "postcode":"6989",
+    "name":[
+      "Maddington"
+    ]
+  },
+  {
+    "postcode":"6990",
+    "name":[
+      "Gosnells"
+    ]
+  },
+  {
+    "postcode":"6991",
+    "name":[
+      "Kelmscott"
+    ]
+  },
+  {
+    "postcode":"6992",
+    "name":[
+      "Armadale"
+    ]
+  },
+  {
+    "postcode":"6997",
+    "name":[
+      "Kelmscott Dc"
+    ]
+  }
+]
